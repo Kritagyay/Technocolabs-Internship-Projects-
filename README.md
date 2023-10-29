@@ -4,8 +4,8 @@ The data scientists at BigMart have collected 2013 sales data for 1559 products 
 Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
 The data has missing values as some stores do not report all the data due to technical glitches. Hence, it will be required to treat them accordingly.
 We will handle this problem in a structured way. We will be following the table of content given below.
-1).Problem Statement
-2).Hypothesis Generation
+* 1).Problem Statement
+* 2).Hypothesis Generation
 3).Loading Packages and Data
 4).Data Structure and Content
 5).Exploratory Data Analysis
