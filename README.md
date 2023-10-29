@@ -6,23 +6,23 @@ The data has missing values as some stores do not report all the data due to tec
 We will handle this problem in a structured way. We will be following the table of content given below.
 * 1).Problem Statement
 * 2).Hypothesis Generation
-3).Loading Packages and Data
-4).Data Structure and Content
-5).Exploratory Data Analysis
-6).Univariate Analysis
-7).Bivariate Analysis
-8).Missing Value Treatment
-9).Feature Engineering
-10).Encoding Categorical Variables
-11).Label Encoding
-12).One Hot Encoding
-13).PreProcessing Data
-14).Modeling
-15).Linear Regression
-16).Regularized Linear Regression
-17).RandomForest
-18).XGBoost
-19).Summary
+* 3).Loading Packages and Data
+* 4).Data Structure and Content
+* 5).Exploratory Data Analysis
+* 6).Univariate Analysis
+* 7).Bivariate Analysis
+* 8).Missing Value Treatment
+* 9).Feature Engineering
+* 10).Encoding Categorical Variables
+* 11).Label Encoding
+* 12).One Hot Encoding
+* 13).PreProcessing Data
+* 14).Modeling
+* 15).Linear Regression
+* 16).Regularized Linear Regression
+* 17).RandomForest
+* 18).XGBoost
+* 19).Summary
 
 You can find the link of the git book below 
 https://shahyaseen71.gitbook.io/technocolabs-mini-project/
